@@ -1,4 +1,4 @@
 ### Leaders
-* [Leader Name](mailto://leader.email@owasp.org)
-* [Leader Name](mailto://leader.email@owasp.org)
-* [Leader Name](mailto://leader.email@owasp.org)
+* [Sri Harsha Gajavalli](mailto://sriharsha.g@owasp.org)
+* [Soham Marik](mailto://sriharsha.g@owasp.org)
+
