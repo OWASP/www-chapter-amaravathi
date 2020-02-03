@@ -1,7 +1,7 @@
 ---
 
 layout: col-sidebar
-title: Amaravathi 
+title: OWASP Amaravathi 
 tags: example-tag
 level: 4
 type: 
